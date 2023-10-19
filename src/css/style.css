@@ -8,7 +8,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: left no-repeat url(../images/bg-desktop.svg) var(--primary-violet) ;
+    background: url(../images/bg-desktop.svg) left no-repeat var(--primary-violet) ;
     background-size: cover;
 }
 
