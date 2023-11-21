@@ -1,0 +1,43 @@
+@media(max-width: 850px) {
+
+    .header img {
+        width: 130px;
+    }
+
+    .contents .image img{
+        width: 450px;
+    }
+    
+    .contents .text h1 {
+        margin-top: 25px;
+        font-size: 2rem;
+    }
+
+    .contents .text p {
+        font-size: 0.8rem;
+    }
+
+    .contents .button {
+        width: 95px;
+        font-size: 0.9rem;
+        padding: 8px;
+    }
+
+    .footer .social-icons {
+        gap: 13px;
+    }
+
+    .footer .social-icons a {
+        height: 30px;
+        width: 30px;
+        border: 1.5px solid #ffffff;
+    }
+
+    .footer .social-icons a i {
+        font-size: 1rem;
+    }
+    
+    .footer .social-icons a:hover {
+        border: 1.5px solid var(--soft-magenta);
+    }
+}

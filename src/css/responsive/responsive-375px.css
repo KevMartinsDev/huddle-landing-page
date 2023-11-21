@@ -1,0 +1,19 @@
+@media(max-width: 384px) {
+
+    .header img {
+        margin-left: 5px;
+    }
+
+    .contents .image img {
+        width: 280px;
+    }
+
+    .contents .text p{
+        font-size: 1.3rem;
+    }
+    
+    .footer {
+        margin-top: 10px;
+    }
+    
+}

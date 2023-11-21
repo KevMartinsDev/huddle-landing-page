@@ -1,0 +1,11 @@
+@media(max-width: 360px) {
+
+    .header img {
+        margin-left: 0px;
+    }
+
+    .contents .text p{
+        font-size: 1.2rem;
+    }
+
+}

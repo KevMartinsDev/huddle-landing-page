@@ -1,0 +1,38 @@
+@media(max-width: 384px) {
+
+    .container {
+        gap: 0px;
+    }
+
+    .header img {
+        width: 100px;
+        margin-left: 10px;
+    }
+
+    .contents .image img {
+        width: 300px;
+    }
+
+    .contents .text h1 {
+        font-size: 2.1rem;
+    }
+
+    .contents .text p{
+        font-size: 1.35rem;
+    }
+    
+    .contents .button {
+        width: 170px;
+        font-size: 1rem;
+    }
+    
+    .footer .social-icons a {
+        height: 22px;
+        width: 22px;
+    }
+
+    .footer .social-icons a i {
+        font-size: 1rem;
+    }
+    
+}
